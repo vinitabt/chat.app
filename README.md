@@ -1,1 +1,1 @@
-# chat.app
+# private-chat
